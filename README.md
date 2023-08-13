@@ -1,4 +1,5 @@
 # belajarColaborasi
 
-tes123.
-aaaaaaaaaaaaaaaaaaaaaaaaaa.
+tes
+ini file main
+test123
